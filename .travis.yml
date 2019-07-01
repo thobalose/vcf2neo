@@ -1,6 +1,6 @@
 os:
   - linux
-dist: trusty
+dist: xenial
 sudo: required
 
 language: python
